@@ -1,7 +1,7 @@
-#Modular Calculator
+# Modular Calculator
 
 
-##Suggested Program Flow
+## Suggested Program Flow
 
 Your calculator may follow this flow:
 
@@ -14,10 +14,10 @@ Your calculator may follow this flow:
 7. Display the result
 8. End
 
-##Programming Task
+## Programming Task
 
 
-###A. Input
+### A. Input
 
 Your program should ask the user for:
 
@@ -31,7 +31,7 @@ Example operation choices:
 3 - Multiplication
 4 - Division
 
-###B. Process
+### B. Process
 
 Your program should:
 
@@ -40,7 +40,7 @@ Your program should:
 - Process the values inside the function body
 - Return the result to the caller
 
-###C. Output
+### C. Output
 
 Your program should display the result clearly.
 
